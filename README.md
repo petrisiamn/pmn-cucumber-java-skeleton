@@ -4,8 +4,8 @@ https://www.phptravels.net for booking train ticket and flight ticket
 ## workaround ##
 
 - platfom desktop web
-- Scenario:
-  1. Open the web application
+- Scenario:  
+ 1. Open the web application
   2. On the home screen, select Flights and Select Oneway Trip Flight
   3. Select Business class
   4. Enter LAX as a Departure Airport and MXP as the Destination Airport
