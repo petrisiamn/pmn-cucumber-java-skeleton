@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="phptravels" />
+        <module name="pmn-cucumber-java-skeleton" />
       </profile>
     </annotationProcessing>
   </component>
